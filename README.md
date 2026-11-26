@@ -18,6 +18,19 @@ TVLINK поддерживает механизм добавления источ
 
 Скраперы из данного репозитория BarrelGun могут устанавливаться вручную согласно инструкции выше.
 
+## 🌐 Оригинальный проект TVLINK и документация
+
+Данный проект использует API дополнений TVLINK.
+
+**TVLINK — оригинальный проект Александра (AlexELEC).**
+
+- 🏠 [Официальный сайт TVLINK](https://alexelec.run.place/)
+- 👨‍💻 [GitHub разработчика AlexELEC](https://github.com/AlexELEC)
+- 📖 [Официальная документация API дополнений TVLINK](https://alexelec.run.place/docs/tvlink/docs/addons-api/)
+- 📦 [Официальный репозиторий TVLINK-ADDONS](https://github.com/AlexELEC/TVLINK-ADDONS)
+
+Рекомендуем ознакомиться с оригинальной документацией TVLINK, в которой описаны API дополнений, структура скраперов, функции `Channels()` и `getLink()`, а также правила взаимодействия с TVLINK.
+
 ---
 
 ## 👨‍💻 Разработчик TVLINK
